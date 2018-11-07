@@ -1,7 +1,7 @@
 {
     "name": "soshnikov-writing",
     "description": "Markdown writings by Artem Soshnikov",
-    "repository": "git@bitbucket.org:sayocean450/writer.git",
+    "repository": "git@github.com:sayocean450/soshnikov-writing.git",
     "author": "Artem Soshnikov <sayocean450@gmail.com>",
     "version": "1.0.23",
     "devDependencies": {}
