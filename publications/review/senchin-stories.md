@@ -36,6 +36,14 @@
 
 Но всё же если главной целью сборника был выход в открытый космос актуальности, то Сенчин в ней пока ещё задыхается. Задыхается, но шагает смело — за что всё же испытываешь искреннее читательское уважение.
 
+---- 
+
+## По теме:
+
+[Рецензия на роман Сенчина «Дождь в Париже»][1]
+
+[1]:	http://sayocean.me/rain-in-paris.html
+
 [image-1]:	http://sayocean.me/avatars/senchin-stories.jpg
 [image-2]:	https://obj.altapress.ru/picture/433351/936x530.jpg
 [image-3]:	http://sayocean.me/avatars/sambuka.jpg
