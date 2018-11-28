@@ -22,4 +22,4 @@
 
 Подождём. Сальников обещал.
 
-[image-1]:	http://sayocean.me/avatars/department.jpg
+[image-1]:	http://sayocean.me/img/department.jpg

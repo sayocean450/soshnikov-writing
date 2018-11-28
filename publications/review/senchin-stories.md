@@ -44,6 +44,6 @@
 
 [1]:	http://sayocean.me/rain-in-paris.html
 
-[image-1]:	http://sayocean.me/avatars/senchin-stories.jpg
+[image-1]:	http://sayocean.me/img/senchin-stories.jpg
 [image-2]:	https://obj.altapress.ru/picture/433351/936x530.jpg
-[image-3]:	http://sayocean.me/avatars/sambuka.jpg
+[image-3]:	http://sayocean.me/img/sambuka.jpg

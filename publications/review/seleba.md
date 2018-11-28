@@ -41,6 +41,6 @@
 [3]:	https://t.me/zvonimentam/654
 [4]:	shalamov.html
 
-[image-1]:	http://sayocean.me/avatars/seleba.jpg
+[image-1]:	http://sayocean.me/img/seleba.jpg
 [image-2]:	https://gdb.voanews.com/4660AC5C-3303-4CE1-A838-FE25B2C5D97E_cx4_cy17_cw91_w1023_r1_s.jpg
 [image-3]:	https://meduza.io/image/attachments/images/002/721/651/large/vTcK5OEcYR-83U4HD1XqKQ.jpg

@@ -52,6 +52,6 @@
 
 Кажется, многослойной идее не хватает размаха в рамках небольшой книжки. Сорокин мог, но не захотел превращать «Манарагу» в толстый всеобъемлющий роман и он абсолютно прав. На толстом романе не прочтёшь что-то лёгкое, а вот на ёмком, фактурном издании маэстро приготовит небольшой сочный рибай, после которого читатель встанет из-за стола немножечко голодным.
 
-[image-1]:	http://sayocean.me/avatars/patriot.jpg
-[image-2]:	http://sayocean.me/avatars/petrovs.jpg
-[image-3]:	http://sayocean.me/avatars/manaraga.jpg
+[image-1]:	http://sayocean.me/img/patriot.jpg
+[image-2]:	http://sayocean.me/img/petrovs.jpg
+[image-3]:	http://sayocean.me/img/manaraga.jpg

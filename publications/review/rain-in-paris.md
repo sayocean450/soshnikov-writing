@@ -18,4 +18,4 @@
 
 Самостоятельно они так и останутся сидеть в номере. Выхода не найдут.
 
-[image-1]:	http://sayocean.me/avatars/rain-in-paris.jpg
+[image-1]:	http://sayocean.me/img/rain-in-paris.jpg

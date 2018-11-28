@@ -32,4 +32,4 @@
 
 [1]:	http://t.me/zvonimentam
 
-[image-1]:	http://sayocean.me/avatars/bookmate-nervousess.jpg
+[image-1]:	http://sayocean.me/img/bookmate-nervousess.jpg

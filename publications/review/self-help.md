@@ -46,4 +46,4 @@
 
 Заодно перестанете бегать по кругу вечного саморазвития как свихнувшийся офисный хомяк Жора.
 
-[image-1]:	http://sayocean.me/avatars/self-help.jpg
+[image-1]:	http://sayocean.me/img/self-help.jpg
