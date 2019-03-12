@@ -1,4 +1,4 @@
-[«Автономный Хипстер»][1], 2016{.article\_\_lead}
+[«Чернотроп»][1], 2016{.article\_\_lead}
 
 ![][image-1]{.article\_\_image}
 
@@ -30,6 +30,6 @@
 
 Ничего не поделаешь. Цифровая привычка.
 
-[1]:	http://t.me/zvonimentam
+[1]:	http://teleg.run/blacktrope
 
 [image-1]:	http://sayocean.me/img/bookmate-nervousess.jpg

@@ -1,4 +1,4 @@
-Артём Сошников — о мёртвом китайском Хемингуэе и щепотке его переведённых на русский рассказов. Пост из телеграм-канала «[Автономный Хипстер][1]». {.article\_\_lead}
+Артём Сошников — о мёртвом китайском Хемингуэе и щепотке его переведённых на русский рассказов. Пост из телеграм-канала «[Чернотроп][1]». {.article\_\_lead}
 
 ![][image-1] {.article\_\_image}
 
@@ -26,7 +26,7 @@
 
 [Купить «ИК 5/6» с тремя рассказами][4]
 
-[1]:	http://teleg.run/zvonimentam
+[1]:	http://teleg.run/blacktrope
 [2]:	http://teleg.run/thefirstpictureshow
 [3]:	http://old.kinoart.ru/archive/2018/5-6/khu-tsyan-slon-sidit-spokojno
 [4]:	https://kinoart.ru/issues/5

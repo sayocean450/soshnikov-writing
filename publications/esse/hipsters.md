@@ -1,4 +1,4 @@
-[«Автономный Хипстер»][1], 2017{.article\_\_lead}
+[«Чернотроп»][1], 2017{.article\_\_lead}
 
 ![][image-1]{.article\_\_image}
 Источник: meduza.io, 2017{.article\_\_image-caption}
@@ -37,7 +37,7 @@
 
 _Звучит музыка из Ералаша_.
 
-[1]:	http://t.me/zvonimentam
+[1]:	http://teleg.run/blacktrope
 [2]:	https://meduza.io/feature/2017/03/31/nevozmozhno-vesti-dialog-s-nesuschimsya-po-relsam-lokomotivom
 [3]:	https://ru.bookmate.com/books/FL5ekjB6
 

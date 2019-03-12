@@ -1,4 +1,4 @@
-[«Автономный Хипстер»][1], 2017{.article\_\_lead}
+[«Чернотроп»][1], 2017{.article\_\_lead}
 
 ![][image-1]{.article\_\_image}
 Источник: фейсбук поэтессы Веры Полозковой{.article\_\_image-caption}
@@ -33,7 +33,7 @@
 
 Но нет. Нет у нас такой книги. И, похоже, не будет. Просто в следующем году выйдет ещё какое-нибудь нацбольское произведение Прилепина.
 
-[1]:	http://t.me/zvonimentam
+[1]:	http://teleg.run/blacktrope
 [2]:	https://meduza.io/feature/2017/02/20/chto-ne-tak-s-knigoy-zahara-prilepina-vzvod-ofitsery-i-opolchentsy-russkoy-literatury
 [3]:	https://gorky.media/context/banalnost-ne-zla/
 
