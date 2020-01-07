@@ -1999,7 +1999,7 @@ _«Низамутдинов Марат. Идеологические разно�
 
 Его твидовый костюм отлично сочетался с галстуком ярко-красного цвета.
 
-[image-1]:	../../img/inside-screen-1.jpg
-[image-2]:	../../img/inside-screen-2.jpg
-[image-3]:	../../img/inside-screen-3.jpg
-[image-4]:	../../img/inside-screen-4.jpg
+[image-1]:	http://soshnikov-writing.art/img/inside-screen-1.jpg
+[image-2]:	http://soshnikov-writing.art/img/inside-screen-2.jpg
+[image-3]:	http://soshnikov-writing.art/img/inside-screen-3.jpg
+[image-4]:	http://soshnikov-writing.art/img/inside-screen-4.jpg
