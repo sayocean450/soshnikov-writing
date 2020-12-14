@@ -11,5 +11,5 @@
 
 Вот давайте не будем молчать. [Держите хорошую комедию][2], посмотрите её на выходных.
 
-[1]:	http://soshnikov-space.ru/two-british-series
+[1]:	http://soshnikov.space/two-british-series
 [2]:	https://tnt-premier.ru/series/690175
