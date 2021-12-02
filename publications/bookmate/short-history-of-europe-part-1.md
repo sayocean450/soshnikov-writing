@@ -32,7 +32,7 @@ _Рекомендуемые книги: «Краткая история Итал
 [https://bookmate.com/books/IiSvUXcS][3] (есть еще аудио-версия)
 
 _Аркадий Ипполитов «Только Венеция. Образы Италии XXI»_
-([https://bookmate.com/books/qKYAOcRU][4])_ 
+([https://bookmate.com/books/qKYAOcRU][4])\_ 
 _Прашкевич, Соловьев «Муссолини: Цезарь фашистского Рима»_
 ([https://bookmate.com/audiobooks/AacmqcJd][5]) (не успел послушать, стоит перепроверить на адекватность)
 
