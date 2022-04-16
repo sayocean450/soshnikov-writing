@@ -28,3 +28,5 @@
 
 [image-1]:	http://chernotrop.reviews/img/pigliucchi-stoic-02.jpg
 [image-2]:	http://chernotrop.reviews/img/pigliucchi-stoic-03.jpg
+
+#archive

@@ -54,3 +54,5 @@
 [6]:	http://lists.memo.ru/index.htm
 
 [image-1]:	http://soshnikov.space/img/polyarinov-rif-bad-design.jpg
+
+#published

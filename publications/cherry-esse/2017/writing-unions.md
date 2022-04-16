@@ -18,3 +18,5 @@
 Ещё б блокчейна туда навернуть 😀
 
 [1]:	https://gorky.media/context/shvedskij-literaturnyj-sotsializm/
+
+#archive

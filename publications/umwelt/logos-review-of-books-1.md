@@ -70,3 +70,5 @@
 [1]:	http://t.me/Philosophytoday
 [2]:	http://t.me/thrashbooks
 [3]:	https://gorky.media/fragments/zhdet-li-nas-vosstanie-na-puti-v-virtualnuyu-utopiyu/%0A
+
+#published

@@ -72,3 +72,5 @@ _Любовные линии_ же — ещё одна сильная сторо
 [image-1]:	http://soshnikov.space/img/khanov-gnev-cover.jpg
 [image-2]:	http://soshnikov.space/img/khanov-multable-cover.jpg
 [image-3]:	http://soshnikov.space/img/khanov-birds-cover.jpg
+
+#published

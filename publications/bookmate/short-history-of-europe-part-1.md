@@ -64,3 +64,5 @@ _Андре Моруа «История Франции»_
 [6]:	https://bookmate.com/books/PTYevBmM
 [7]:	https://bookmate.com/books/lI1maUI3
 [8]:	https://bookmate.com/books/vnJ4UaSw
+
+#published

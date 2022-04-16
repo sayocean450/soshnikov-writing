@@ -25,3 +25,5 @@
 
 [1]:	http://umwelt-books.ru/pigliucchi-stoic
 [2]:	http://umwelt-books.ru/critchley-dead-sophists
+
+#archive

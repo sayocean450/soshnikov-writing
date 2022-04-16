@@ -57,3 +57,5 @@ _Рекомендация: Джон Хейвуд «Люди Севера. Ист
 [1]:	https://ru.bookmate.com/books/JycH9Cfc
 [2]:	https://ru.bookmate.com/books/dLWr3UTA
 [3]:	https://ru.bookmate.com/books/oMwkHJtG
+
+#published

@@ -131,3 +131,5 @@
 [image-1]:	http://soshnikov.space/img/bulgarin.jpeg
 [image-2]:	http://soshnikov.space/img/bulgarin-paper.jpeg
 [image-3]:	http://soshnikov.space/img/bulgarin-vizhigin-og.jpg
+
+#published

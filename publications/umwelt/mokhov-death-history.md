@@ -45,3 +45,5 @@ _Помимо разбора похоронной инфраструктуры �
 [image-1]:	https://valentinagurarie.files.wordpress.com/2016/03/erwin-olaf.jpg
 [image-2]:	https://shop.erarta.com/opencms/export/sites/erarta/.content/images/pictures/RP03022017001.jpg
 [image-3]:	https://shop.erarta.com/opencms/export/sites/erarta/.content/images/pictures/Y17062019006.jpg
+
+#published
