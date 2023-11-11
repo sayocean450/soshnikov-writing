@@ -24,5 +24,3 @@
 [Смотреть бесплатно на Artdoc.media][1]
 
 [1]:	https://artdoc.media/ru/movie/esche_chutok__mrazi__2013_67/watch/
-
-#archive

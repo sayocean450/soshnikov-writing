@@ -36,5 +36,3 @@
 Или же постмодерн снова всё пережуёт — и ничегошеньки мы не увидим.
 
 [1]:	http://magazines.russ.ru/znamia/2001/5/epsh.html
-
-#archive

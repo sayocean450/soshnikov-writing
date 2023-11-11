@@ -12,5 +12,3 @@
 Нечасто замечаешь в фильме такую деконструкцию современности.
 
 [1]:	https://www.sports.ru/tribuna/blogs/laprimeranotes/1905069.html
-
-#archive

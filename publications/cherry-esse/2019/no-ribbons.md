@@ -16,5 +16,3 @@
 [1]:	https://www.youtube.com/watch?v=h92mIyHk3Ys
 [2]:	https://www.youtube.com/watch?v=7bu66C6qT0A
 [3]:	https://www.youtube.com/watch?v=CK12I9JjN5Q
-
-#archive

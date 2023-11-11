@@ -28,5 +28,3 @@
 Попытка снять нескучное видео о книге:
 
 https://youtu.be/d2BORb9w8ys
-
-#archive

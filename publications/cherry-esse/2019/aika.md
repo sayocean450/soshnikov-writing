@@ -32,5 +32,3 @@
 [1]:	https://kinoart.ru/reviews/ayka
 [2]:	https://seance.ru/blog/interviews/ajka-dvorcevoj-eslyamova/%20
 [3]:	https://piligrim.fund/film/chuzhaya-rabota
-
-#archive

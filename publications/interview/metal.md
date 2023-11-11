@@ -35,5 +35,3 @@ _Петербург, 35 лет. Метал-блоггер, ведущий инс
 
 
 [image-1]:	https://d3n32ilufxuvd1.cloudfront.net/59e898cf0f783d4361faf1f1/886143/upload-c27e4a70-a66e-11e8-aadd-1302254a777c.jpg
-
-#archive

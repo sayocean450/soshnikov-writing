@@ -27,5 +27,3 @@
 Не знаю, приедет ли Фабр ещё, но я показал только треть того, что меня впечатлило. Кому интересно, полистайте [небольшую брошюрку][1].
 
 [1]:	https://www.hermitagemuseum.org/wps/wcm/connect/34d6f48d-81fc-4c9c-9264-cf2519c3f527/%D0%A4%D0%B0%D0%B1%D1%80_%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C.pdf?MOD=AJPERES&CACHEID=34d6f48d-81fc-4c9c-9264-cf2519c3f527%3E
-
-#archive

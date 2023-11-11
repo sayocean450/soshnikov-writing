@@ -17,5 +17,3 @@
 «Пассажирка Вертухаева, улетающая в Нальчик...»
 
 [1]:	http://paperpaper.ru/sub-100-bmorskaya/
-
-#archive

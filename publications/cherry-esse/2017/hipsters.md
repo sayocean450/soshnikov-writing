@@ -33,5 +33,3 @@ _Звучит музыка из Ералаша_.
 
 [1]:	https://meduza.io/feature/2017/03/31/nevozmozhno-vesti-dialog-s-nesuschimsya-po-relsam-lokomotivom
 [2]:	https://ru.bookmate.com/books/FL5ekjB6
-
-#published

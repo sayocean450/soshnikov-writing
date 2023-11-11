@@ -29,5 +29,3 @@
 
 
 [1]:	https://t.me/pepel_v/124
-
-#archive

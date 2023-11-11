@@ -69,5 +69,3 @@
 [2]:	https://www.patreon.com/kamilkazani/posts
 [3]:	https://t.me/sublimeporte
 [4]:	https://t.me/blacktrope/911
-
-#published

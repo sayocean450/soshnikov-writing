@@ -44,5 +44,3 @@ _Петербург, 34 года. Басист death-metal группы Infiltra
 
 [image-1]:	https://d3n32ilufxuvd1.cloudfront.net/59e898cf0f783d4361faf1f1/886143/upload-c10c1cd0-a66e-11e8-aadd-1302254a777c.jpg
 [image-2]:	https://d3n32ilufxuvd1.cloudfront.net/59e898cf0f783d4361faf1f1/886143/upload-4001e3d0-a66a-11e8-b534-0ddef94f1dec.jpg
-
-#archive

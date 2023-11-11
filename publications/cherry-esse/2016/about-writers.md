@@ -28,5 +28,3 @@
 Только давайте на этот раз обойдёмся без государственных союзов.
 
 [1]:	https://gorky.media/context/shvedskij-literaturnyj-sotsializm/
-
-#archive

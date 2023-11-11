@@ -33,5 +33,3 @@
 
 [1]:	https://meduza.io/feature/2017/02/20/chto-ne-tak-s-knigoy-zahara-prilepina-vzvod-ofitsery-i-opolchentsy-russkoy-literatury
 [2]:	https://gorky.media/context/banalnost-ne-zla/
-
-#archive

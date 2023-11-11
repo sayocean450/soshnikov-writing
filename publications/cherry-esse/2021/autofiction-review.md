@@ -39,5 +39,3 @@
 
 [1]:	https://magazines.gorky.media/druzhba/2021/11/kseniya-peterburgskaya-pozvonit.html
 [2]:	https://t.me/milchin/1708
-
-#published

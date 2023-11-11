@@ -63,5 +63,3 @@
 [1]:	https://gorky.media/reviews/ajd-rend-sotsrealizm-naoborot/
 [2]:	https://t.me/redzion/4343
 [3]:	https://t.me/kakieknigi/120
-
-#archive

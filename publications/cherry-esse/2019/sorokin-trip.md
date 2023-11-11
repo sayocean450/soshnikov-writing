@@ -30,5 +30,3 @@
 Остались ещё на свете красивые вещи. И фильмы хорошие тоже пока ещё есть.
 
 [1]:	https://www.instagram.com/polka_fightclub/
-
-#archive

@@ -24,5 +24,3 @@
 
 [image-1]:	https://telegra.ph/file/ec1d03e926f31785ecc22.jpg
 [image-2]:	https://telegra.ph/file/c26590c3f17413b73376a.jpg
-
-#archive

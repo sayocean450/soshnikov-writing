@@ -26,5 +26,3 @@
 
 [1]:	https://bookmate.com/books/xNWh9BNb
 [2]:	https://nazaccent.ru/content/7925-soratniki-tesaka-arestovany-za-krazhu-produktov.html
-
-#archive

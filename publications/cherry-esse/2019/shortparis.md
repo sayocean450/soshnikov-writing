@@ -25,5 +25,3 @@
 
 [1]:	https://genius.com/16151694
 [2]:	http://www.sobaka.ru/entertainment/music/98942
-
-#archive
